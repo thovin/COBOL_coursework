@@ -1,0 +1,20 @@
+09/12/20                          LUNA. LTD                        TWJ
+
+                                  INVENTORY REPORT
+
+
+   CATALOG        PART         PURCHASE   QUANTITY   QUANTITY   REORDER
+   NUMBER         NAME          PRICE     ON HAND    ON ORDER    POINT
+
+    X7Y10    Gas Tank            125.95     0100       0100       0100
+    X8Y20    Gas Cap             075.99     0200       0100       0000
+    X6N30    Seat                500.00     0010       0000       0005
+    Y9T40    Spark Plugs         025.95     0020       0180       0200
+    T8N50    Helmet              003.85     0100       0000       0050
+    S9M60    Slick 50            059.99     0000       0050       0020
+    J9M70    Gear Box            999.99     0705       0000       0700
+    K3L80    Muffler             350.95     1000       0005       1000
+    L3D90    Seat Belts          029.95     2570       0000       2000
+    M3100    Tool Box            259.95     0780       0250       1500
+    D4110    Carborator          059.00     0005       0100       0050
+    S8120    Generator           177.00     0010       0080       0025

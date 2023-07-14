@@ -1,0 +1,34 @@
+DATE:  7/31/2020       TRAIN REPORT             XXX                             
+
+
+     STATION CODE:       BHM15                                                  
+
+     TRAIN NAME          LOCATION       STATUS                                  
+
+        B1969            RUNNING     RUNNING                                    
+        B1975            TRACK 1     BEING REPAIRED                             
+        B1960            TRACK 2     BEING SCRAPPED                             
+        B2001            RUNNING     RUNNING                                    
+        B1989            TRACK 3     BEING REPAIRED                             
+
+
+     STATION CODE:       HUN22                                                  
+
+     TRAIN NAME          LOCATION       STATUS                                  
+
+        H1998            RUNNING     RUNNING                                    
+        H1979            TRACK 1     BEING REPAIRED                             
+        H1982            TRACK 2     BEING REPAIRED                             
+        H2019            RUNNING     RUNNING                                    
+        H1959            TRACK 3     BEING SCRAPPED                             
+
+
+     STATION CODE:       MBL31                                                  
+
+     TRAIN NAME          LOCATION       STATUS                                  
+
+        M1972            TRACK 2     BEING SCRAPPED                             
+        M1952            TRACK 1     BEING SCRAPPED                             
+        M1989            RUNNING     RUNNING                                    
+        M1999            RUNNING     RUNNING                                    
+        M1990            TRACK 3     BEING REPAIRED                             

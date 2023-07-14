@@ -1,0 +1,43 @@
+DATE:  8/01/20                    STUDENT REPORT                      XXX
+
+DEPT   CLASS          NAME            SCORE   SCORE   SCORE   SCORE   GRADE
+
+COMP   CS201   Jon Jones                080     070     100     090     B
+COMP   CS201   Thomas Kazinski          080     075     082     099     B
+COMP   CS201   Mark Jensen              070     072     075     071     C
+COMP   CS202   Peter Jones              085     070     100     096     B
+COMP   CS202   Sean Kazinski            082     075     082     092     B
+COMP   CS202   Mark Jasper              099     072     075     044     C
+COMP   CS250   Thomas Christopher       060     062     068     061     D
+COMP   CS250   Judy Filletti            075     085     095     085     B
+COMP   CS350   Thomas Christo           025     062     068     088     D
+COMP   CS350   Harry Filletti           075     085     095     083     B
+COMP   CS491   Buggs Bunny              080     090     095     070     B
+COMP   CS491   Bill Gates               040     042     043     045     F
+COMP   CS499   Buggs Malone             080     090     095     074     B
+ENGL   EN101   Sean Kazinski            090     092     093     082     A
+ENGL   EN102   John Jones               075     060     062     061     D
+ENGL   EN102   Magnolia Blossom         080     075     082     099     B
+ENGL   EN102   Snow White               070     072     075     071     C
+ENGL   EN102   Magnolia Blossom         080     075     082     093     B
+ENGL   EN103   Thomas Kazinski          090     092     093     099     A
+ENGL   EN103   Thomas Christopher       080     082     083     085     B
+ENGL   EN103   Thomas Hopper            080     082     083     099     B
+ENGL   EN104   John Jones               075     060     062     099     C
+ENGL   EN104   Bride Drakea             070     072     075     061     C
+MATH   MA101   Bill Gates               060     062     068     061     D
+MATH   MA101   Steve Jobs               080     090     095     070     B
+MATH   MA101   Snow White               040     042     043     045     F
+MATH   MA102   Travis Gunter            100     100     100     100     A
+MATH   MA102   James Mitchell           100     100     100     100     A
+MATH   MA102   Mark Carswell            090     080     070     086     B
+MATH   MA103   Judge Judy               090     080     070     086     B
+MATH   MA103   Donny Clark              080     060     085     090     C
+MATH   MA104   Rose Budd                090     060     030     080     D
+MATH   MA104   Star Smith               100     090     095     084     A
+MATH   MA104   Magnolia Blossom         090     087     050     045     D
+MATH   MA112   Travis Lamar             100     100     100     100     A
+MATH   MA250   Steven Tyler             100     090     099     098     A
+MATH   MA250   Harry Potter             075     085     074     070     C
+MATH   MA250   Anne Rice                082     083     084     085     B
+MATH   MA250   Steven Smith             100     090     099     091     A

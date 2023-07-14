@@ -1,0 +1,20 @@
+     TWJ                   CLASS GRADES                10/09/20                 
+
+
+      COURSE             NAME             AVERAGE     GRADE                     
+
+        CS201     ABBOTT   MARILYN          81.2        B                       
+        CS201     BACH     SUZANNE          87.5        B                       
+        CS201     CARLSON  THOMAS           43.2        F                       
+        CS250     CHAVEZ   RITA             86.2        B                       
+        CS250     DAVIDSON ROBERT           31.0        F                       
+        CS250     DEERING  STEWART          79.2        C                       
+        CS370     FRANCIS  DAVID            63.2        D                       
+        CS370     GREGORY  PAUL             82.7        B                       
+        CS490     HAMILTON ALEXANDRIA       90.7        A                       
+        CS490     ISAACSON SAMUEL           64.2        D                       
+        CS499     KAPLAN   DAVID            82.5        B                       
+        CS499     LETINSKY MAURICE          17.0        F                       
+        CS500     LOWREY   JUDITH           82.2        B                       
+
+                                     CLASS AVERAGE    68.5                      

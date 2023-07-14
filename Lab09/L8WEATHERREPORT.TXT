@@ -1,0 +1,15 @@
+
+
+                         12 Hour Weather Summary                                
+
+Station                        High     Low                                     
+Muskegon                         28      15                                     
+Grand Rapids                     33      12                                     
+Kalamazoo                        37      21                                     
+Cincinnati                       63      51                                     
+NAME CODE ERROR                  55      40                                     
+Chicago-Midway                   81      66                                     
+Houston-Hobby                    81      69                                     
+Los Angeles                      77      61                                     
+Tokyo-Narita                     54      44                                     
+Buffalo                          49      25                                     
